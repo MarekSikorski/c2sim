@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jdom">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/C2SIMClientLibv4.8.0.4/lib/jdom.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
