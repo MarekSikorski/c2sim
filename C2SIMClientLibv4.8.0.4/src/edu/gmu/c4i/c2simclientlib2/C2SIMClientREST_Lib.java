@@ -50,7 +50,7 @@ public class C2SIMClientREST_Lib {
     
     // Instance variables
     private static String clientVersion = "";
-    private String host = "localhost";
+    private String host = "10.2.10.70";
     private String port = "8080";
     private String path = "C2SIMServer/c2sim";
     private String submitter = "NotSet";
